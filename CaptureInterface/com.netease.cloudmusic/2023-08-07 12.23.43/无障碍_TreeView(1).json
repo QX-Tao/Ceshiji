@@ -1,0 +1,950 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(0, 0 - 1080, 2400)",
+    "children": [
+        {
+            "isImportantForAccessibility": false,
+            "class": "android.widget.LinearLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(0, 0 - 1080, 2400)",
+            "children": [
+                {
+                    "isImportantForAccessibility": false,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": false,
+                            "resourceId": "com.netease.cloudmusic:id/action_bar_root",
+                            "class": "android.widget.FrameLayout",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": false,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 0 - 1080, 2400)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": false,
+                                    "resourceId": "android:id/content",
+                                    "class": "android.widget.FrameLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "resourceId": "com.netease.cloudmusic:id/musicContainer",
+                                            "class": "android.widget.FrameLayout",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                            "children": [
+                                                {
+                                                    "isImportantForAccessibility": true,
+                                                    "resourceId": "com.netease.cloudmusic:id/pageContainer",
+                                                    "class": "android.view.ViewGroup",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "resourceId": "com.netease.cloudmusic:id/allBgView",
+                                                            "class": "android.widget.FrameLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 0 - 1080, 2400)"
+                                                        },
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "resourceId": "com.netease.cloudmusic:id/bottomBgView",
+                                                            "class": "android.widget.FrameLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 0 - 1080, 2400)"
+                                                        },
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "resourceId": "com.netease.cloudmusic:id/headerBgImageContainer",
+                                                            "class": "android.widget.FrameLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": false,
+                                                                    "resourceId": "com.netease.cloudmusic:id/header_container",
+                                                                    "class": "android.widget.FrameLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(0, 0 - 1080, 2400)"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "resourceId": "com.netease.cloudmusic:id/fragmentContainer",
+                                                            "class": "android.widget.FrameLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": false,
+                                                                    "resourceId": "com.netease.cloudmusic:id/rnContainer",
+                                                                    "class": "android.widget.FrameLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "class": "android.widget.FrameLayout",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": false,
+                                                                                    "resourceId": "com.netease.cloudmusic:id/rnContainer",
+                                                                                    "class": "android.widget.FrameLayout",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": false,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": false,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": false,
+                                                                                            "class": "android.widget.FrameLayout",
+                                                                                            "text": "",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": false,
+                                                                                            "isLongClickable": false,
+                                                                                            "isFocusable": false,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": false,
+                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": false,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": false,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": false,
+                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                            "text": "",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": false,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": false,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                                    "text": "",
+                                                                                                                    "contentDescription": "",
+                                                                                                                    "canScroll": false,
+                                                                                                                    "isClickable": false,
+                                                                                                                    "isLongClickable": false,
+                                                                                                                    "isFocusable": false,
+                                                                                                                    "isFocused": false,
+                                                                                                                    "isVisibleToUser": true,
+                                                                                                                    "isSelected": false,
+                                                                                                                    "isEnabled": true,
+                                                                                                                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "isImportantForAccessibility": true,
+                                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                                            "text": "",
+                                                                                                                            "contentDescription": "",
+                                                                                                                            "canScroll": false,
+                                                                                                                            "isClickable": false,
+                                                                                                                            "isLongClickable": false,
+                                                                                                                            "isFocusable": false,
+                                                                                                                            "isFocused": false,
+                                                                                                                            "isVisibleToUser": true,
+                                                                                                                            "isSelected": false,
+                                                                                                                            "isEnabled": true,
+                                                                                                                            "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                                                    "text": "",
+                                                                                                                                    "contentDescription": "",
+                                                                                                                                    "canScroll": false,
+                                                                                                                                    "isClickable": false,
+                                                                                                                                    "isLongClickable": false,
+                                                                                                                                    "isFocusable": false,
+                                                                                                                                    "isFocused": false,
+                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                    "isSelected": false,
+                                                                                                                                    "isEnabled": true,
+                                                                                                                                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "isImportantForAccessibility": false,
+                                                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                                                            "text": "",
+                                                                                                                                            "contentDescription": "",
+                                                                                                                                            "canScroll": false,
+                                                                                                                                            "isClickable": false,
+                                                                                                                                            "isLongClickable": false,
+                                                                                                                                            "isFocusable": false,
+                                                                                                                                            "isFocused": false,
+                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                            "isSelected": false,
+                                                                                                                                            "isEnabled": true,
+                                                                                                                                            "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                                                                    "text": "",
+                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                    "canScroll": false,
+                                                                                                                                                    "isClickable": false,
+                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                    "isFocused": false,
+                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                    "isSelected": false,
+                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "isImportantForAccessibility": true,
+                                                                                                                                                            "class": "androidx.viewpager.widget.ViewPager",
+                                                                                                                                                            "text": "",
+                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                            "canScroll": true,
+                                                                                                                                                            "isClickable": false,
+                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                            "isFocusable": true,
+                                                                                                                                                            "isFocused": false,
+                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                            "isSelected": false,
+                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                            "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                                                                                    "text": "",
+                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "isImportantForAccessibility": false,
+                                                                                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                                                                                            "text": "",
+                                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                                            "canScroll": false,
+                                                                                                                                                                            "isClickable": false,
+                                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                                            "isFocusable": false,
+                                                                                                                                                                            "isFocused": false,
+                                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                                            "isSelected": false,
+                                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                                            "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                                                                                                                    "children": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "isImportantForAccessibility": false,
+                                                                                                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                                                            "canScroll": false,
+                                                                                                                                                                                            "isClickable": false,
+                                                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                                                            "isFocusable": false,
+                                                                                                                                                                                            "isFocused": false,
+                                                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                                                            "isSelected": false,
+                                                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                                                            "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                                                                                    "class": "android.widget.ImageView",
+                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                                                    "boundsInScreen": "(0, 0 - 1080, 2400)"
+                                                                                                                                                                                                },
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                                                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "isImportantForAccessibility": false,
+                                                                                                                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                                                                            "canScroll": false,
+                                                                                                                                                                                                            "isClickable": false,
+                                                                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                                                                            "isFocusable": false,
+                                                                                                                                                                                                            "isFocused": false,
+                                                                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                                                                            "isSelected": false,
+                                                                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                                                                            "boundsInScreen": "(0, 0 - 1080, 960)",
+                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                                                                                                    "class": "android.view.View",
+                                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                                                                    "boundsInScreen": "(0, 0 - 1080, 960)"
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            ]
+                                                                                                                                                                                                        },
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "isImportantForAccessibility": false,
+                                                                                                                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                                                                            "canScroll": false,
+                                                                                                                                                                                                            "isClickable": false,
+                                                                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                                                                            "isFocusable": false,
+                                                                                                                                                                                                            "isFocused": false,
+                                                                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                                                                            "isSelected": false,
+                                                                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                                                                            "boundsInScreen": "(0, 960 - 1080, 2400)"
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    ]
+                                                                                                                                                                                                },
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                                                                                    "class": "android.widget.ImageView",
+                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                                                    "boundsInScreen": "(153, 275 - 927, 1401)"
+                                                                                                                                                                                                },
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                                                    "isClickable": true,
+                                                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                                                    "isFocusable": true,
+                                                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                                                    "boundsInScreen": "(0, 2040 - 1080, 2167)",
+                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "isImportantForAccessibility": false,
+                                                                                                                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                                                                            "canScroll": false,
+                                                                                                                                                                                                            "isClickable": false,
+                                                                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                                                                            "isFocusable": false,
+                                                                                                                                                                                                            "isFocused": false,
+                                                                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                                                                            "isSelected": false,
+                                                                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                                                                            "boundsInScreen": "(238, 2040 - 842, 2167)",
+                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                                                                                                                    "class": "android.widget.TextView",
+                                                                                                                                                                                                                    "text": "查看我的年度报告",
+                                                                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                                                                    "boundsInScreen": "(340, 2069 - 740, 2137)"
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            ]
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    ]
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ]
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                            "isImportantForAccessibility": false,
+                                                                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                                                                            "text": "",
+                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                            "canScroll": false,
+                                                                                                                                                            "isClickable": false,
+                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                            "isFocusable": false,
+                                                                                                                                                            "isFocused": false,
+                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                            "isSelected": false,
+                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                            "boundsInScreen": "(0, 0 - 1080, 275)",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                                                                                    "text": "",
+                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                    "boundsInScreen": "(0, 0 - 1080, 275)",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "isImportantForAccessibility": false,
+                                                                                                                                                                            "class": "android.view.View",
+                                                                                                                                                                            "text": "",
+                                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                                            "canScroll": false,
+                                                                                                                                                                            "isClickable": false,
+                                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                                            "isFocusable": false,
+                                                                                                                                                                            "isFocused": false,
+                                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                                            "isSelected": false,
+                                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                                            "boundsInScreen": "(0, 0 - 1080, 275)"
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                                                                                    "text": "",
+                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                    "boundsInScreen": "(165, 0 - 915, 275)",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "isImportantForAccessibility": true,
+                                                                                                                                                                            "class": "android.widget.HorizontalScrollView",
+                                                                                                                                                                            "text": "",
+                                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                                            "canScroll": true,
+                                                                                                                                                                            "isClickable": false,
+                                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                                            "isFocusable": true,
+                                                                                                                                                                            "isFocused": false,
+                                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                                            "isSelected": false,
+                                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                                            "boundsInScreen": "(165, 133 - 915, 192)",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                                                                                                    "text": "",
+                                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                                    "boundsInScreen": "(165, 133 - 915, 192)",
+                                                                                                                                                                                    "children": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "isImportantForAccessibility": true,
+                                                                                                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                                                            "canScroll": false,
+                                                                                                                                                                                            "isClickable": true,
+                                                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                                                            "isFocusable": true,
+                                                                                                                                                                                            "isFocused": false,
+                                                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                                                            "isSelected": false,
+                                                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                                                            "boundsInScreen": "(171, 133 - 303, 192)",
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                                                                                                    "class": "android.widget.TextView",
+                                                                                                                                                                                                    "text": "照片墙",
+                                                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                                                    "boundsInScreen": "(171, 133 - 303, 192)"
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        },
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "isImportantForAccessibility": true,
+                                                                                                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                                                            "canScroll": false,
+                                                                                                                                                                                            "isClickable": true,
+                                                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                                                            "isFocusable": true,
+                                                                                                                                                                                            "isFocused": false,
+                                                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                                                            "isSelected": false,
+                                                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                                                            "boundsInScreen": "(372, 133 - 548, 192)",
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                                                                                                    "class": "android.widget.TextView",
+                                                                                                                                                                                                    "text": "性格泡泡",
+                                                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                                                    "boundsInScreen": "(372, 133 - 548, 192)"
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        },
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "isImportantForAccessibility": true,
+                                                                                                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                                                            "canScroll": false,
+                                                                                                                                                                                            "isClickable": true,
+                                                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                                                            "isFocusable": true,
+                                                                                                                                                                                            "isFocused": false,
+                                                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                                                            "isSelected": false,
+                                                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                                                            "boundsInScreen": "(617, 133 - 793, 192)",
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                                                                                                    "class": "android.widget.TextView",
+                                                                                                                                                                                                    "text": "年度报告",
+                                                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                                                    "boundsInScreen": "(617, 133 - 793, 192)"
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        },
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "isImportantForAccessibility": true,
+                                                                                                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                                                                                                            "text": "",
+                                                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                                                            "canScroll": false,
+                                                                                                                                                                                            "isClickable": true,
+                                                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                                                            "isFocusable": true,
+                                                                                                                                                                                            "isFocused": false,
+                                                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                                                            "isSelected": false,
+                                                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                                                            "boundsInScreen": "(862, 133 - 915, 192)",
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                                                                                                    "class": "android.widget.TextView",
+                                                                                                                                                                                                    "text": "村民证",
+                                                                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                                                                    "canScroll": false,
+                                                                                                                                                                                                    "isClickable": false,
+                                                                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                                                                    "isFocused": false,
+                                                                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                                                                    "isSelected": false,
+                                                                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                                                                    "boundsInScreen": "(862, 133 - 915, 192)"
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ]
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                                                    "text": "",
+                                                                                                                                    "contentDescription": "",
+                                                                                                                                    "canScroll": false,
+                                                                                                                                    "isClickable": false,
+                                                                                                                                    "isLongClickable": false,
+                                                                                                                                    "isFocusable": false,
+                                                                                                                                    "isFocused": false,
+                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                    "isSelected": false,
+                                                                                                                                    "isEnabled": true,
+                                                                                                                                    "boundsInScreen": "(0, 0 - 1080, 226)",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "isImportantForAccessibility": false,
+                                                                                                                                            "class": "android.view.ViewGroup",
+                                                                                                                                            "text": "",
+                                                                                                                                            "contentDescription": "",
+                                                                                                                                            "canScroll": false,
+                                                                                                                                            "isClickable": false,
+                                                                                                                                            "isLongClickable": false,
+                                                                                                                                            "isFocusable": false,
+                                                                                                                                            "isFocused": false,
+                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                            "isSelected": false,
+                                                                                                                                            "isEnabled": true,
+                                                                                                                                            "boundsInScreen": "(0, 105 - 1080, 226)",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                                                                    "text": "",
+                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                    "canScroll": false,
+                                                                                                                                                    "isClickable": true,
+                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                    "isFocusable": true,
+                                                                                                                                                    "isFocused": false,
+                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                    "isSelected": false,
+                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                    "boundsInScreen": "(44, 127 - 121, 204)",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "isImportantForAccessibility": false,
+                                                                                                                                                            "class": "android.widget.ImageView",
+                                                                                                                                                            "text": "",
+                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                            "canScroll": false,
+                                                                                                                                                            "isClickable": false,
+                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                            "isFocusable": false,
+                                                                                                                                                            "isFocused": false,
+                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                            "isSelected": false,
+                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                            "boundsInScreen": "(44, 127 - 121, 204)"
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                                                    "class": "android.view.ViewGroup",
+                                                                                                                                                    "text": "",
+                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                    "canScroll": false,
+                                                                                                                                                    "isClickable": true,
+                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                    "isFocusable": true,
+                                                                                                                                                    "isFocused": false,
+                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                    "isSelected": false,
+                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                    "boundsInScreen": "(959, 127 - 1036, 204)",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "isImportantForAccessibility": false,
+                                                                                                                                                            "class": "android.widget.ImageView",
+                                                                                                                                                            "text": "",
+                                                                                                                                                            "contentDescription": "",
+                                                                                                                                                            "canScroll": false,
+                                                                                                                                                            "isClickable": false,
+                                                                                                                                                            "isLongClickable": false,
+                                                                                                                                                            "isFocusable": false,
+                                                                                                                                                            "isFocused": false,
+                                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                                            "isSelected": false,
+                                                                                                                                                            "isEnabled": true,
+                                                                                                                                                            "boundsInScreen": "(959, 127 - 1036, 204)"
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
