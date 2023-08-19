@@ -1,0 +1,710 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(0, 0 - 1080, 2400)",
+    "children": [
+        {
+            "isImportantForAccessibility": false,
+            "class": "android.widget.LinearLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(0, 0 - 1080, 2400)",
+            "children": [
+                {
+                    "isImportantForAccessibility": false,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 104 - 1080, 2400)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": false,
+                            "resourceId": "com.douban.frodo:id/action_bar_root",
+                            "class": "android.widget.FrameLayout",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": false,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 104 - 1080, 2400)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": false,
+                                    "resourceId": "android:id/content",
+                                    "class": "android.widget.FrameLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(0, 104 - 1080, 2400)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "class": "android.widget.RelativeLayout",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(0, 104 - 1080, 2400)",
+                                            "children": [
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "resourceId": "com.douban.frodo:id/content_container",
+                                                    "class": "android.widget.FrameLayout",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 104 - 1080, 2400)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "class": "android.widget.LinearLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 104 - 1080, 2400)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": false,
+                                                                    "class": "android.widget.FrameLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(0, 104 - 1080, 236)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "resourceId": "com.douban.frodo:id/title_toolbar",
+                                                                            "class": "android.view.ViewGroup",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(0, 104 - 1080, 236)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": true,
+                                                                                    "class": "android.widget.ImageButton",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": true,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": true,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(0, 104 - 110, 236)"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "isImportantForAccessibility": true,
+                                                                            "resourceId": "com.douban.frodo:id/tab_layout",
+                                                                            "class": "android.widget.HorizontalScrollView",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": true,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(391, 104 - 909, 236)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": false,
+                                                                                    "class": "android.widget.LinearLayout",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": false,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": false,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(391, 104 - 909, 236)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": true,
+                                                                                            "class": "android.widget.FrameLayout",
+                                                                                            "text": "",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": true,
+                                                                                            "isLongClickable": true,
+                                                                                            "isFocusable": true,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(391, 104 - 650, 236)",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": false,
+                                                                                                    "class": "android.widget.LinearLayout",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": false,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": false,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(391, 104 - 485, 236)",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": true,
+                                                                                                            "resourceId": "com.douban.frodo:id/custom_text",
+                                                                                                            "class": "android.widget.TextView",
+                                                                                                            "text": "提醒",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": false,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": false,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(391, 104 - 485, 236)"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "isImportantForAccessibility": true,
+                                                                                            "class": "android.widget.FrameLayout",
+                                                                                            "text": "",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": true,
+                                                                                            "isLongClickable": true,
+                                                                                            "isFocusable": true,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(650, 104 - 909, 236)",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": false,
+                                                                                                    "class": "android.widget.LinearLayout",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": false,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": false,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(650, 104 - 744, 236)",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": true,
+                                                                                                            "resourceId": "com.douban.frodo:id/custom_text",
+                                                                                                            "class": "android.widget.TextView",
+                                                                                                            "text": "私信",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": false,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": false,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(650, 104 - 744, 236)"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "isImportantForAccessibility": false,
+                                                                    "class": "android.widget.ImageView",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(0, 236 - 1080, 237)"
+                                                                },
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "resourceId": "com.douban.frodo:id/subject_view_pager",
+                                                                    "class": "android.view.ViewGroup",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": true,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(0, 237 - 1080, 2400)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "class": "android.widget.FrameLayout",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(0, 237 - 1080, 2400)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": false,
+                                                                                    "resourceId": "com.douban.frodo:id/swipe_refresh_layout",
+                                                                                    "class": "android.view.ViewGroup",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": false,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": false,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(0, 237 - 1080, 2400)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": true,
+                                                                                            "resourceId": "com.douban.frodo:id/list_view",
+                                                                                            "class": "android.widget.ListView",
+                                                                                            "text": "",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": true,
+                                                                                            "isLongClickable": true,
+                                                                                            "isFocusable": false,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(0, 237 - 1080, 2400)",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": true,
+                                                                                                    "class": "android.widget.RelativeLayout",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": false,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": false,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(0, 237 - 1080, 514)",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": true,
+                                                                                                            "resourceId": "com.douban.frodo:id/tv_title",
+                                                                                                            "class": "android.widget.TextView",
+                                                                                                            "text": "全部提醒",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": false,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": false,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(41, 267 - 205, 322)"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": true,
+                                                                                                            "resourceId": "com.douban.frodo:id/all_read",
+                                                                                                            "class": "android.widget.TextView",
+                                                                                                            "text": "全部已读",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": true,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": true,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(855, 267 - 1039, 333)"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": true,
+                                                                                                            "resourceId": "com.douban.frodo:id/tv_subject_messages",
+                                                                                                            "class": "android.widget.TextView",
+                                                                                                            "text": "书影音消息",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": true,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": true,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(41, 352 - 1039, 473)"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": true,
+                                                                                                    "class": "android.widget.RelativeLayout",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": false,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": false,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(0, 515 - 1080, 753)",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": false,
+                                                                                                            "class": "android.widget.FrameLayout",
+                                                                                                            "text": "",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": false,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": false,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(0, 515 - 1080, 753)",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                    "resourceId": "com.douban.frodo:id/tip_content",
+                                                                                                                    "class": "android.widget.RelativeLayout",
+                                                                                                                    "text": "",
+                                                                                                                    "contentDescription": "",
+                                                                                                                    "canScroll": false,
+                                                                                                                    "isClickable": false,
+                                                                                                                    "isLongClickable": false,
+                                                                                                                    "isFocusable": false,
+                                                                                                                    "isFocused": false,
+                                                                                                                    "isVisibleToUser": true,
+                                                                                                                    "isSelected": false,
+                                                                                                                    "isEnabled": true,
+                                                                                                                    "boundsInScreen": "(42, 557 - 1038, 711)",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "isImportantForAccessibility": true,
+                                                                                                                            "resourceId": "com.douban.frodo:id/close_tip_layout",
+                                                                                                                            "class": "android.widget.FrameLayout",
+                                                                                                                            "text": "",
+                                                                                                                            "contentDescription": "",
+                                                                                                                            "canScroll": false,
+                                                                                                                            "isClickable": true,
+                                                                                                                            "isLongClickable": false,
+                                                                                                                            "isFocusable": true,
+                                                                                                                            "isFocused": false,
+                                                                                                                            "isVisibleToUser": true,
+                                                                                                                            "isSelected": false,
+                                                                                                                            "isEnabled": true,
+                                                                                                                            "boundsInScreen": "(42, 571 - 168, 697)",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                    "resourceId": "com.douban.frodo:id/close_tip",
+                                                                                                                                    "class": "android.widget.ImageView",
+                                                                                                                                    "text": "",
+                                                                                                                                    "contentDescription": "",
+                                                                                                                                    "canScroll": false,
+                                                                                                                                    "isClickable": false,
+                                                                                                                                    "isLongClickable": false,
+                                                                                                                                    "isFocusable": false,
+                                                                                                                                    "isFocused": false,
+                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                    "isSelected": false,
+                                                                                                                                    "isEnabled": true,
+                                                                                                                                    "boundsInScreen": "(83, 612 - 127, 656)"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "isImportantForAccessibility": true,
+                                                                                                                            "resourceId": "com.douban.frodo:id/push_tip_title",
+                                                                                                                            "class": "android.widget.TextView",
+                                                                                                                            "text": "打开推送，\n及时收到回复提醒",
+                                                                                                                            "contentDescription": "",
+                                                                                                                            "canScroll": false,
+                                                                                                                            "isClickable": false,
+                                                                                                                            "isLongClickable": false,
+                                                                                                                            "isFocusable": false,
+                                                                                                                            "isFocused": false,
+                                                                                                                            "isVisibleToUser": true,
+                                                                                                                            "isSelected": false,
+                                                                                                                            "isEnabled": true,
+                                                                                                                            "boundsInScreen": "(168, 585 - 456, 682)"
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "isImportantForAccessibility": true,
+                                                                                                                            "resourceId": "com.douban.frodo:id/open_btn",
+                                                                                                                            "class": "android.widget.TextView",
+                                                                                                                            "text": "去开启",
+                                                                                                                            "contentDescription": "",
+                                                                                                                            "canScroll": false,
+                                                                                                                            "isClickable": true,
+                                                                                                                            "isLongClickable": false,
+                                                                                                                            "isFocusable": true,
+                                                                                                                            "isFocused": false,
+                                                                                                                            "isVisibleToUser": true,
+                                                                                                                            "isSelected": false,
+                                                                                                                            "isEnabled": true,
+                                                                                                                            "boundsInScreen": "(807, 595 - 997, 672)"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": true,
+                                                                                                    "class": "android.widget.FrameLayout",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": true,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": true,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(0, 754 - 1080, 930)"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "isImportantForAccessibility": false,
+                                                                                    "resourceId": "com.douban.frodo:id/empty_container",
+                                                                                    "class": "android.widget.FrameLayout",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": false,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": false,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(0, 237 - 1080, 2400)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": false,
+                                                                                            "resourceId": "com.douban.frodo:id/empty_container",
+                                                                                            "class": "android.widget.FrameLayout",
+                                                                                            "text": "",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": false,
+                                                                                            "isLongClickable": false,
+                                                                                            "isFocusable": false,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(0, 237 - 1080, 2400)",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": false,
+                                                                                                    "resourceId": "com.douban.frodo:id/empty_content",
+                                                                                                    "class": "android.widget.LinearLayout",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": false,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": false,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(428, 850 - 651, 1153)",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": false,
+                                                                                                            "resourceId": "com.douban.frodo:id/img",
+                                                                                                            "class": "android.widget.ImageView",
+                                                                                                            "text": "",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": false,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": false,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(428, 850 - 651, 1070)"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": true,
+                                                                                                            "resourceId": "com.douban.frodo:id/title",
+                                                                                                            "class": "android.widget.TextView",
+                                                                                                            "text": "暂无提醒",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": true,
+                                                                                                            "isLongClickable": true,
+                                                                                                            "isFocusable": true,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(457, 1098 - 621, 1153)"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "isImportantForAccessibility": false,
+            "resourceId": "android:id/statusBarBackground",
+            "class": "android.view.View",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(0, 0 - 1080, 104)"
+        }
+    ]
+}

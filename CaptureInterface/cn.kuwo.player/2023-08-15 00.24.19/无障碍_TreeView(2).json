@@ -1,0 +1,199 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(133, 860 - 1307, 2460)",
+    "children": [
+        {
+            "isImportantForAccessibility": false,
+            "class": "android.widget.FrameLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(133, 860 - 1307, 2460)",
+            "children": [
+                {
+                    "isImportantForAccessibility": false,
+                    "resourceId": "android:id/content",
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(133, 860 - 1307, 2460)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": false,
+                            "class": "android.widget.LinearLayout",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": false,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(133, 860 - 1307, 2460)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": false,
+                                    "class": "android.widget.LinearLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(133, 860 - 1307, 2232)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "class": "android.widget.RelativeLayout",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(133, 860 - 1307, 1385)",
+                                            "children": [
+                                                {
+                                                    "isImportantForAccessibility": true,
+                                                    "resourceId": "cn.kuwo.player:id/ivHeader",
+                                                    "class": "android.widget.ImageView",
+                                                    "text": "",
+                                                    "contentDescription": "酷我音乐",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(230, 860 - 1210, 1385)"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "isImportantForAccessibility": true,
+                                            "class": "android.widget.TextView",
+                                            "text": "权限申请",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(133, 1473 - 1307, 1548)"
+                                        },
+                                        {
+                                            "isImportantForAccessibility": true,
+                                            "resourceId": "cn.kuwo.player:id/tvContent",
+                                            "class": "android.widget.TextView",
+                                            "text": "酷我音乐需要获取（麦克风权限）权限，以保证录音和连麦功能的正常使用。请在之后的权限申请弹窗上放心选择【允许】。",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": true,
+                                            "isLongClickable": true,
+                                            "isFocusable": true,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(210, 1583 - 1230, 1913)"
+                                        },
+                                        {
+                                            "isImportantForAccessibility": true,
+                                            "resourceId": "cn.kuwo.player:id/btnOk",
+                                            "class": "android.widget.TextView",
+                                            "text": "确定",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": true,
+                                            "isLongClickable": false,
+                                            "isFocusable": true,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(221, 1983 - 1219, 2134)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "resourceId": "cn.kuwo.player:id/btnClose",
+                                    "class": "android.widget.FrameLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": true,
+                                    "isLongClickable": false,
+                                    "isFocusable": true,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(650, 2320 - 790, 2460)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "class": "android.widget.ImageView",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(693, 2363 - 746, 2416)"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(0, 0 - 1080, 2400)",
+    "children": [
+        {
+            "isImportantForAccessibility": true,
+            "resourceId": "com.anjuke.android.app:id/btn_cancel_scan",
+            "class": "android.widget.TextView",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": true,
+            "isLongClickable": false,
+            "isFocusable": true,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(33, 104 - 99, 226)"
+        }
+    ]
+}

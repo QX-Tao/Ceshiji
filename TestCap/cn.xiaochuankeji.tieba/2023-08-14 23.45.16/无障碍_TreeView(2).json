@@ -1,0 +1,230 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(0, 2160 - 1440, 3200)",
+    "children": [
+        {
+            "isImportantForAccessibility": true,
+            "class": "android.widget.LinearLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": true,
+            "isLongClickable": false,
+            "isFocusable": true,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(0, 2160 - 1440, 3200)",
+            "children": [
+                {
+                    "isImportantForAccessibility": true,
+                    "class": "android.widget.LinearLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": true,
+                    "isLongClickable": false,
+                    "isFocusable": true,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 2160 - 1440, 3200)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": true,
+                            "class": "android.widget.TextView",
+                            "text": "评论排序",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": false,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 2160 - 1440, 2300)"
+                        },
+                        {
+                            "isImportantForAccessibility": true,
+                            "class": "androidx.recyclerview.widget.RecyclerView",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": true,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 2301 - 1440, 3025)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "class": "android.widget.LinearLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": true,
+                                    "isLongClickable": false,
+                                    "isFocusable": true,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(0, 2301 - 1440, 2483)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": true,
+                                            "resourceId": "cn.xiaochuankeji.tieba:id/title",
+                                            "class": "android.widget.TextView",
+                                            "text": "最热评论",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(112, 2301 - 371, 2483)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "class": "android.widget.LinearLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": true,
+                                    "isLongClickable": false,
+                                    "isFocusable": true,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(0, 2482 - 1440, 2664)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": true,
+                                            "resourceId": "cn.xiaochuankeji.tieba:id/title",
+                                            "class": "android.widget.TextView",
+                                            "text": "最新评论",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(112, 2482 - 371, 2664)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "class": "android.widget.LinearLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": true,
+                                    "isLongClickable": false,
+                                    "isFocusable": true,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(0, 2663 - 1440, 2845)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": true,
+                                            "resourceId": "cn.xiaochuankeji.tieba:id/title",
+                                            "class": "android.widget.TextView",
+                                            "text": "只看楼主",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(112, 2663 - 371, 2845)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "class": "android.widget.LinearLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": true,
+                                    "isLongClickable": false,
+                                    "isFocusable": true,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(0, 2844 - 1440, 3025)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": true,
+                                            "resourceId": "cn.xiaochuankeji.tieba:id/title",
+                                            "class": "android.widget.TextView",
+                                            "text": "有视频",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(112, 2844 - 315, 3025)"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "isImportantForAccessibility": true,
+                            "class": "android.widget.TextView",
+                            "text": "关闭",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": true,
+                            "isLongClickable": false,
+                            "isFocusable": true,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 3025 - 1440, 3200)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

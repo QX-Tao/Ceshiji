@@ -1,0 +1,439 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(0, 0 - 1080, 2400)",
+    "children": [
+        {
+            "isImportantForAccessibility": true,
+            "resourceId": "com.achievo.vipshop:id/btn_back",
+            "class": "android.widget.ImageView",
+            "text": "",
+            "contentDescription": "返回",
+            "canScroll": false,
+            "isClickable": true,
+            "isLongClickable": false,
+            "isFocusable": true,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(0, 106 - 162, 222)"
+        },
+        {
+            "isImportantForAccessibility": true,
+            "resourceId": "com.achievo.vipshop:id/vipheader_title",
+            "class": "android.widget.TextView",
+            "text": "关于唯品会",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": true,
+            "isLongClickable": false,
+            "isFocusable": true,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(415, 131 - 665, 197)"
+        },
+        {
+            "isImportantForAccessibility": true,
+            "class": "androidx.recyclerview.widget.RecyclerView",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": true,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(0, 224 - 1080, 2520)",
+            "children": [
+                {
+                    "isImportantForAccessibility": true,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 224 - 1080, 270)"
+                },
+                {
+                    "isImportantForAccessibility": true,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 270 - 1080, 420)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": true,
+                            "class": "android.widget.FrameLayout",
+                            "text": "",
+                            "contentDescription": "营业执照 ",
+                            "canScroll": false,
+                            "isClickable": true,
+                            "isLongClickable": false,
+                            "isFocusable": true,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 270 - 1080, 420)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "class": "android.widget.TextView",
+                                    "text": "营业执照",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(43, 270 - 227, 420)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "isImportantForAccessibility": true,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 420 - 1080, 570)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": true,
+                            "class": "android.widget.FrameLayout",
+                            "text": "",
+                            "contentDescription": "服务条款 ",
+                            "canScroll": false,
+                            "isClickable": true,
+                            "isLongClickable": false,
+                            "isFocusable": true,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 420 - 1080, 570)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "class": "android.widget.TextView",
+                                    "text": "服务条款",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(43, 420 - 227, 570)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "isImportantForAccessibility": true,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 570 - 1080, 720)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": true,
+                            "class": "android.widget.FrameLayout",
+                            "text": "",
+                            "contentDescription": "版权信息 ",
+                            "canScroll": false,
+                            "isClickable": true,
+                            "isLongClickable": false,
+                            "isFocusable": true,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 570 - 1080, 720)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "class": "android.widget.TextView",
+                                    "text": "版权信息",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(43, 570 - 227, 720)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "isImportantForAccessibility": true,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 720 - 1080, 870)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": true,
+                            "class": "android.widget.FrameLayout",
+                            "text": "",
+                            "contentDescription": "质量通告 ",
+                            "canScroll": false,
+                            "isClickable": true,
+                            "isLongClickable": false,
+                            "isFocusable": true,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 720 - 1080, 870)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "class": "android.widget.TextView",
+                                    "text": "质量通告",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(43, 720 - 227, 870)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "isImportantForAccessibility": true,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 870 - 1080, 916)"
+                },
+                {
+                    "isImportantForAccessibility": true,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 916 - 1080, 1066)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": true,
+                            "class": "android.widget.FrameLayout",
+                            "text": "",
+                            "contentDescription": "品牌招商 ",
+                            "canScroll": false,
+                            "isClickable": true,
+                            "isLongClickable": false,
+                            "isFocusable": true,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 916 - 1080, 1066)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "class": "android.widget.TextView",
+                                    "text": "品牌招商",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(43, 916 - 227, 1066)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "isImportantForAccessibility": true,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 1066 - 1080, 1216)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": true,
+                            "class": "android.widget.FrameLayout",
+                            "text": "",
+                            "contentDescription": "平台规则 ",
+                            "canScroll": false,
+                            "isClickable": true,
+                            "isLongClickable": false,
+                            "isFocusable": true,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 1066 - 1080, 1216)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "class": "android.widget.TextView",
+                                    "text": "平台规则",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(43, 1066 - 227, 1216)"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "isImportantForAccessibility": true,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 1216 - 1080, 1366)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": true,
+                            "class": "android.widget.FrameLayout",
+                            "text": "",
+                            "contentDescription": "关于我们 ",
+                            "canScroll": false,
+                            "isClickable": true,
+                            "isLongClickable": false,
+                            "isFocusable": true,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 1216 - 1080, 1366)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "class": "android.widget.TextView",
+                                    "text": "关于我们",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(43, 1216 - 227, 1366)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
