@@ -53,5 +53,5 @@ def print_files_info(root_folder):
                     print_file_info(sub_folder_path)
 
 
-folder = './TestCap'
+folder = './PreCap'
 print_files_info(folder)
