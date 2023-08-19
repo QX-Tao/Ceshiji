@@ -1,0 +1,511 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(0, 0 - 1080, 2400)",
+    "children": [
+        {
+            "isImportantForAccessibility": false,
+            "resourceId": "com.shoujiduoduo.ringtone:id/swipe",
+            "class": "android.widget.FrameLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(0, 0 - 1080, 2400)",
+            "children": [
+                {
+                    "isImportantForAccessibility": false,
+                    "class": "android.widget.LinearLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": false,
+                            "class": "android.widget.FrameLayout",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": false,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 104 - 1080, 2400)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": false,
+                                    "resourceId": "com.shoujiduoduo.ringtone:id/action_bar_root",
+                                    "class": "android.widget.LinearLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(0, 104 - 1080, 2400)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "resourceId": "android:id/content",
+                                            "class": "android.widget.FrameLayout",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(0, 104 - 1080, 2400)",
+                                            "children": [
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "class": "android.widget.LinearLayout",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 104 - 1080, 2400)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "resourceId": "com.shoujiduoduo.ringtone:id/appBar",
+                                                            "class": "android.widget.RelativeLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 104 - 1080, 236)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "resourceId": "com.shoujiduoduo.ringtone:id/back",
+                                                                    "class": "android.widget.ImageButton",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": true,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(14, 115 - 124, 225)"
+                                                                },
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "resourceId": "com.shoujiduoduo.ringtone:id/tabView",
+                                                                    "class": "android.widget.HorizontalScrollView",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(210, 115 - 870, 225)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "class": "android.widget.LinearLayout",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(210, 115 - 870, 225)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": true,
+                                                                                    "class": "android.widget.LinearLayout",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "收藏的铃声",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": false,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": true,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": true,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(210, 115 - 540, 225)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": true,
+                                                                                            "class": "android.widget.TextView",
+                                                                                            "text": "收藏的铃声",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": false,
+                                                                                            "isLongClickable": false,
+                                                                                            "isFocusable": false,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": true,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(265, 140 - 485, 199)"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "isImportantForAccessibility": true,
+                                                                                    "class": "android.widget.LinearLayout",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "收藏的视频",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": true,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": true,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(540, 115 - 870, 225)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": true,
+                                                                                            "class": "android.widget.TextView",
+                                                                                            "text": "收藏的视频",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": false,
+                                                                                            "isLongClickable": false,
+                                                                                            "isFocusable": false,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(595, 140 - 815, 199)"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "class": "android.view.View",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 236 - 1080, 237)"
+                                                        },
+                                                        {
+                                                            "isImportantForAccessibility": true,
+                                                            "resourceId": "com.shoujiduoduo.ringtone:id/viewPager",
+                                                            "class": "androidx.viewpager.widget.ViewPager",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": true,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": true,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 237 - 1080, 2400)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": false,
+                                                                    "resourceId": "com.shoujiduoduo.ringtone:id/ring_list_panel",
+                                                                    "class": "android.widget.RelativeLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(0, 237 - 1080, 2400)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "resourceId": "com.shoujiduoduo.ringtone:id/content_view",
+                                                                            "class": "android.widget.RelativeLayout",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(0, 237 - 1080, 2400)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": false,
+                                                                                    "resourceId": "com.shoujiduoduo.ringtone:id/swipeRefreshLayout",
+                                                                                    "class": "android.view.ViewGroup",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": false,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": false,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": false,
+                                                                                    "boundsInScreen": "(0, 237 - 1080, 2400)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": true,
+                                                                                            "resourceId": "com.shoujiduoduo.ringtone:id/list_view",
+                                                                                            "class": "android.widget.ListView",
+                                                                                            "text": "",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": false,
+                                                                                            "isLongClickable": false,
+                                                                                            "isFocusable": true,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(0, 237 - 1080, 2400)",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": true,
+                                                                                                    "resourceId": "com.shoujiduoduo.ringtone:id/centerBar",
+                                                                                                    "class": "android.widget.LinearLayout",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": true,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": false,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(0, 237 - 1080, 419)",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": true,
+                                                                                                            "resourceId": "com.shoujiduoduo.ringtone:id/randomPlayButton",
+                                                                                                            "class": "android.widget.FrameLayout",
+                                                                                                            "text": "",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": true,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": true,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(39, 276 - 349, 386)",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                    "class": "android.widget.TextView",
+                                                                                                                    "text": "随机播放",
+                                                                                                                    "contentDescription": "",
+                                                                                                                    "canScroll": false,
+                                                                                                                    "isClickable": false,
+                                                                                                                    "isLongClickable": false,
+                                                                                                                    "isFocusable": false,
+                                                                                                                    "isFocused": false,
+                                                                                                                    "isVisibleToUser": true,
+                                                                                                                    "isSelected": false,
+                                                                                                                    "isEnabled": true,
+                                                                                                                    "boundsInScreen": "(97, 308 - 290, 353)"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": true,
+                                                                                                            "resourceId": "com.shoujiduoduo.ringtone:id/intelligenceButton",
+                                                                                                            "class": "android.widget.FrameLayout",
+                                                                                                            "text": "",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": true,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": true,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(385, 276 - 695, 386)",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                    "class": "android.widget.TextView",
+                                                                                                                    "text": "心动模式",
+                                                                                                                    "contentDescription": "",
+                                                                                                                    "canScroll": false,
+                                                                                                                    "isClickable": false,
+                                                                                                                    "isLongClickable": false,
+                                                                                                                    "isFocusable": false,
+                                                                                                                    "isFocused": false,
+                                                                                                                    "isVisibleToUser": true,
+                                                                                                                    "isSelected": false,
+                                                                                                                    "isEnabled": true,
+                                                                                                                    "boundsInScreen": "(443, 308 - 636, 353)"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": true,
+                                                                                                            "resourceId": "com.shoujiduoduo.ringtone:id/playAllButton",
+                                                                                                            "class": "android.widget.FrameLayout",
+                                                                                                            "text": "",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": true,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": true,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(731, 276 - 1041, 386)",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                    "class": "android.widget.TextView",
+                                                                                                                    "text": "顺序播放",
+                                                                                                                    "contentDescription": "",
+                                                                                                                    "canScroll": false,
+                                                                                                                    "isClickable": false,
+                                                                                                                    "isLongClickable": false,
+                                                                                                                    "isFocusable": false,
+                                                                                                                    "isFocused": false,
+                                                                                                                    "isVisibleToUser": true,
+                                                                                                                    "isSelected": false,
+                                                                                                                    "isEnabled": true,
+                                                                                                                    "boundsInScreen": "(789, 308 - 982, 353)"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": true,
+                                                                                                    "resourceId": "com.shoujiduoduo.ringtone:id/loadMoreLayout",
+                                                                                                    "class": "android.widget.LinearLayout",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": true,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": false,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(0, 419 - 1080, 579)",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": true,
+                                                                                                            "resourceId": "com.shoujiduoduo.ringtone:id/get_more_text",
+                                                                                                            "class": "android.widget.TextView",
+                                                                                                            "text": "已经到底部啦！",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": true,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": true,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(382, 430 - 697, 568)"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

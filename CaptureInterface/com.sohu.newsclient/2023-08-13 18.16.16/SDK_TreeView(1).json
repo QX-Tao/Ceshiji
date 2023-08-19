@@ -1,0 +1,276 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(0, 2091 - 1080, 2400)",
+    "children": [
+        {
+            "isImportantForAccessibility": false,
+            "class": "android.widget.FrameLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(0, 2091 - 1080, 2400)",
+            "children": [
+                {
+                    "isImportantForAccessibility": false,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 2091 - 1080, 2400)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": false,
+                            "resourceId": "com.sohu.newsclient:id/action_bar_root",
+                            "class": "android.widget.LinearLayout",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": false,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 2091 - 1080, 2400)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": false,
+                                    "resourceId": "android:id/content",
+                                    "class": "android.widget.FrameLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(0, 2091 - 1080, 2400)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "resourceId": "com.sohu.newsclient:id/view_container",
+                                            "class": "android.widget.LinearLayout",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(0, 2091 - 1080, 2400)",
+                                            "children": [
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "resourceId": "com.sohu.newsclient:id/top_content",
+                                                    "class": "android.widget.LinearLayout",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 2091 - 1080, 2400)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "resourceId": "com.sohu.newsclient:id/dialog_content_part",
+                                                            "class": "android.widget.FrameLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 2091 - 1080, 2400)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": false,
+                                                                    "class": "android.widget.LinearLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(0, 2091 - 1080, 2400)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "resourceId": "com.sohu.newsclient:id/root_layout",
+                                                                            "class": "android.widget.LinearLayout",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(0, 2091 - 1080, 2400)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": false,
+                                                                                    "resourceId": "com.sohu.newsclient:id/auto_enter_layout",
+                                                                                    "class": "android.widget.RelativeLayout",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": false,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": false,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(0, 2091 - 1080, 2254)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": false,
+                                                                                            "resourceId": "com.sohu.newsclient:id/middle_layout",
+                                                                                            "class": "android.widget.RelativeLayout",
+                                                                                            "text": "",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": false,
+                                                                                            "isLongClickable": false,
+                                                                                            "isFocusable": false,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(0, 2091 - 1080, 2242)",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": true,
+                                                                                                    "resourceId": "com.sohu.newsclient:id/auto_enter_text",
+                                                                                                    "class": "android.widget.TextView",
+                                                                                                    "text": "开启后，下次默认进入刷新闻",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": false,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": false,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(47, 2137 - 867, 2195)"
+                                                                                                },
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": true,
+                                                                                                    "resourceId": "com.sohu.newsclient:id/auto_enter_switch",
+                                                                                                    "class": "android.widget.CompoundButton",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": true,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": true,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(922, 2132 - 1033, 2201)"
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "isImportantForAccessibility": false,
+                                                                                            "resourceId": "com.sohu.newsclient:id/divider_line",
+                                                                                            "class": "android.widget.ImageView",
+                                                                                            "text": "",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": false,
+                                                                                            "isLongClickable": false,
+                                                                                            "isFocusable": false,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(0, 2253 - 1080, 2254)"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "isImportantForAccessibility": true,
+                                                                                    "resourceId": "com.sohu.newsclient:id/cancel_setting",
+                                                                                    "class": "android.widget.TextView",
+                                                                                    "text": "关闭",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": true,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": true,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(0, 2254 - 1080, 2400)"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

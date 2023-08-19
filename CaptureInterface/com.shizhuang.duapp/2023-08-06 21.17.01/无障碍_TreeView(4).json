@@ -1,0 +1,534 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(0, 0 - 1440, 3200)",
+    "children": [
+        {
+            "isImportantForAccessibility": false,
+            "class": "android.widget.LinearLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(0, 0 - 1440, 3200)",
+            "children": [
+                {
+                    "isImportantForAccessibility": false,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 120 - 1440, 3200)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": false,
+                            "resourceId": "com.shizhuang.duapp:id/action_bar_root",
+                            "class": "android.widget.LinearLayout",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": false,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 120 - 1440, 3200)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": false,
+                                    "resourceId": "android:id/content",
+                                    "class": "android.widget.FrameLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(0, 120 - 1440, 3200)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "class": "android.widget.LinearLayout",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(0, 120 - 1440, 3200)",
+                                            "children": [
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "class": "android.view.ViewGroup",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 120 - 1440, 316)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": true,
+                                                            "resourceId": "com.shizhuang.duapp:id/back",
+                                                            "class": "android.widget.ImageButton",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": true,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": true,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 120 - 161, 316)"
+                                                        },
+                                                        {
+                                                            "isImportantForAccessibility": true,
+                                                            "resourceId": "com.shizhuang.duapp:id/flSearch",
+                                                            "class": "android.widget.FrameLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": true,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": true,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(161, 155 - 1230, 281)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "resourceId": "com.shizhuang.duapp:id/tvSearch",
+                                                                    "class": "android.widget.TextView",
+                                                                    "text": "品牌名/商品名/订单号",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(203, 155 - 1188, 281)"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "resourceId": "com.shizhuang.duapp:id/llToolbarButton",
+                                                            "class": "android.widget.LinearLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(1230, 176 - 1370, 260)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "class": "android.widget.ImageView",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": true,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(1286, 176 - 1370, 260)"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "isImportantForAccessibility": true,
+                                                    "resourceId": "com.shizhuang.duapp:id/tlOrderCategory",
+                                                    "class": "android.widget.HorizontalScrollView",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": true,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 316 - 1440, 474)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "class": "android.widget.LinearLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 316 - 1440, 474)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "class": "androidx.appcompat.app.ActionBar$Tab",
+                                                                    "text": "",
+                                                                    "contentDescription": "全部",
+                                                                    "canScroll": false,
+                                                                    "isClickable": true,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(0, 316 - 288, 474)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": true,
+                                                                            "class": "android.widget.TextView",
+                                                                            "text": "全部",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(95, 362 - 193, 428)"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "class": "androidx.appcompat.app.ActionBar$Tab",
+                                                                    "text": "",
+                                                                    "contentDescription": "待付款",
+                                                                    "canScroll": false,
+                                                                    "isClickable": true,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": true,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(288, 316 - 576, 474)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": true,
+                                                                            "class": "android.widget.TextView",
+                                                                            "text": "待付款",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": true,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(358, 362 - 505, 428)"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "class": "androidx.appcompat.app.ActionBar$Tab",
+                                                                    "text": "",
+                                                                    "contentDescription": "待发货",
+                                                                    "canScroll": false,
+                                                                    "isClickable": true,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(576, 316 - 864, 474)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": true,
+                                                                            "class": "android.widget.TextView",
+                                                                            "text": "待发货",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(646, 362 - 793, 428)"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "class": "androidx.appcompat.app.ActionBar$Tab",
+                                                                    "text": "",
+                                                                    "contentDescription": "待收货",
+                                                                    "canScroll": false,
+                                                                    "isClickable": true,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(864, 316 - 1152, 474)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": true,
+                                                                            "class": "android.widget.TextView",
+                                                                            "text": "待收货",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(934, 362 - 1081, 428)"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "class": "androidx.appcompat.app.ActionBar$Tab",
+                                                                    "text": "",
+                                                                    "contentDescription": "待评价",
+                                                                    "canScroll": false,
+                                                                    "isClickable": true,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(1152, 316 - 1440, 474)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": true,
+                                                                            "class": "android.widget.TextView",
+                                                                            "text": "待评价",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(1222, 362 - 1369, 428)"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "isImportantForAccessibility": true,
+                                                    "resourceId": "com.shizhuang.duapp:id/vpOrderList",
+                                                    "class": "androidx.viewpager.widget.ViewPager",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": true,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 474 - 1440, 3200)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "class": "androidx.recyclerview.widget.RecyclerView",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": true,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": true,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 474 - 1440, 3200)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "class": "android.widget.FrameLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(358, 836 - 505, 902)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "class": "android.view.ViewGroup",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(0, 2846 - 1440, 3200)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": false,
+                                                                                    "class": "android.widget.FrameLayout",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": false,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": false,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(0, 474 - 1440, 3200)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": false,
+                                                                                            "class": "android.view.ViewGroup",
+                                                                                            "text": "",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": false,
+                                                                                            "isLongClickable": false,
+                                                                                            "isFocusable": false,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(0, 474 - 1440, 3200)",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": false,
+                                                                                                    "resourceId": "com.shizhuang.duapp:id/emptyConvert",
+                                                                                                    "class": "android.widget.ImageView",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": false,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": false,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(458, 1130 - 983, 1655)"
+                                                                                                },
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": true,
+                                                                                                    "resourceId": "com.shizhuang.duapp:id/emptyHint",
+                                                                                                    "class": "android.widget.TextView",
+                                                                                                    "text": "暂无相关订单",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": false,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": false,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(561, 1725 - 879, 1796)"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

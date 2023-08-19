@@ -1,0 +1,292 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(141, 821 - 939, 1579)",
+    "children": [
+        {
+            "isImportantForAccessibility": false,
+            "class": "android.widget.FrameLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(141, 821 - 939, 1579)",
+            "children": [
+                {
+                    "isImportantForAccessibility": false,
+                    "resourceId": "android:id/content",
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(141, 821 - 939, 1579)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": true,
+                            "class": "android.widget.ScrollView",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": true,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(141, 821 - 939, 1579)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": false,
+                                    "resourceId": "com.qidian.QDReader:id/contentView",
+                                    "class": "android.widget.FrameLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(141, 821 - 939, 1579)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "class": "android.widget.LinearLayout",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(141, 821 - 939, 1579)",
+                                            "children": [
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "resourceId": "com.qidian.QDReader:id/layContainer",
+                                                    "class": "android.widget.FrameLayout",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(141, 821 - 939, 1579)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "resourceId": "com.qidian.QDReader:id/layoutView",
+                                                            "class": "android.widget.RelativeLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(141, 1014 - 939, 1579)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "resourceId": "com.qidian.QDReader:id/tvContentTitle",
+                                                                    "class": "android.widget.TextView",
+                                                                    "text": "用户服务协议和隐私协议",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(270, 1069 - 809, 1128)"
+                                                                },
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "resourceId": "com.qidian.QDReader:id/tvContentSubTitle",
+                                                                    "class": "android.widget.TextView",
+                                                                    "text": "进入下一步前，请先阅读并同意《用户服务协议》及《隐私协议》，未注册手机号登录后将自动创建起点账号",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(207, 1161 - 873, 1337)"
+                                                                },
+                                                                {
+                                                                    "isImportantForAccessibility": false,
+                                                                    "resourceId": "com.qidian.QDReader:id/bottomButtonLayout",
+                                                                    "class": "android.widget.LinearLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(207, 1403 - 873, 1513)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": true,
+                                                                            "resourceId": "com.qidian.QDReader:id/btnLeft",
+                                                                            "class": "android.widget.LinearLayout",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": true,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": true,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(207, 1403 - 518, 1513)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": false,
+                                                                                    "class": "android.widget.LinearLayout",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": false,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": false,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(304, 1403 - 421, 1513)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": true,
+                                                                                            "resourceId": "com.qidian.QDReader:id/button_text_id",
+                                                                                            "class": "android.widget.TextView",
+                                                                                            "text": "不同意",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": false,
+                                                                                            "isLongClickable": false,
+                                                                                            "isFocusable": false,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(304, 1433 - 421, 1482)"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "isImportantForAccessibility": true,
+                                                                            "resourceId": "com.qidian.QDReader:id/btnRight",
+                                                                            "class": "android.widget.LinearLayout",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": true,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": true,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(562, 1403 - 873, 1513)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": false,
+                                                                                    "class": "android.widget.LinearLayout",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": false,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": false,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(620, 1403 - 815, 1513)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": true,
+                                                                                            "resourceId": "com.qidian.QDReader:id/button_text_id",
+                                                                                            "class": "android.widget.TextView",
+                                                                                            "text": "同意并继续",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": false,
+                                                                                            "isLongClickable": false,
+                                                                                            "isFocusable": false,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(620, 1433 - 815, 1482)"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,376 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(0, 0 - 1080, 2400)",
+    "children": [
+        {
+            "isImportantForAccessibility": false,
+            "class": "android.widget.LinearLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(0, 0 - 1080, 2400)",
+            "children": [
+                {
+                    "isImportantForAccessibility": false,
+                    "resourceId": "android:id/content",
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 0 - 1080, 2400)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": false,
+                            "resourceId": "com.qiyi.video:id/unused_res_a",
+                            "class": "android.widget.LinearLayout",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": false,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 0 - 1080, 2400)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "resourceId": "com.qiyi.video:id/unused_res_a",
+                                    "class": "android.widget.FrameLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": true,
+                                    "isLongClickable": false,
+                                    "isFocusable": true,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(0, 104 - 1080, 225)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "resourceId": "com.qiyi.video:id/title_bar_container",
+                                            "class": "android.widget.RelativeLayout",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(0, 104 - 1080, 225)",
+                                            "children": [
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "resourceId": "com.qiyi.video:id/title_bar_bg",
+                                                    "class": "android.view.View",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 104 - 1080, 225)"
+                                                },
+                                                {
+                                                    "isImportantForAccessibility": true,
+                                                    "resourceId": "com.qiyi.video:id/title_bar_left_container",
+                                                    "class": "android.widget.LinearLayout",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": true,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": true,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 109 - 91, 220)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "class": "android.widget.ImageView",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(33, 135 - 91, 193)"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "class": "android.widget.LinearLayout",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(494, 133 - 586, 196)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": true,
+                                                            "resourceId": "com.qiyi.video:id/title_bar_title",
+                                                            "class": "android.widget.TextView",
+                                                            "text": "消息",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(494, 133 - 586, 196)"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "class": "android.widget.LinearLayout",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(939, 104 - 1052, 225)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": true,
+                                                            "resourceId": "com.qiyi.video:id/title_bar_right_layout",
+                                                            "class": "android.widget.RelativeLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": true,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": true,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(994, 135 - 1052, 193)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": false,
+                                                                    "resourceId": "com.qiyi.video:id/title_bar_right_view",
+                                                                    "class": "android.widget.ImageView",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(994, 135 - 1052, 193)"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isImportantForAccessibility": false,
+                                    "resourceId": "com.qiyi.video:id/unused_res_a",
+                                    "class": "android.widget.FrameLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(0, 225 - 1080, 2400)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "class": "android.widget.LinearLayout",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(0, 225 - 1080, 2400)",
+                                            "children": [
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "resourceId": "com.qiyi.video:id/unused_res_a",
+                                                    "class": "android.widget.FrameLayout",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 225 - 1080, 2400)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "resourceId": "com.qiyi.video:id/unused_res_a",
+                                                            "class": "android.widget.RelativeLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 225 - 1080, 2400)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": false,
+                                                                    "resourceId": "com.qiyi.video:id/unused_res_a",
+                                                                    "class": "android.widget.RelativeLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(0, 948 - 1080, 1676)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "resourceId": "com.qiyi.video:id/unused_res_a",
+                                                                            "class": "android.widget.ImageView",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(0, 948 - 1080, 1466)"
+                                                                        },
+                                                                        {
+                                                                            "isImportantForAccessibility": true,
+                                                                            "resourceId": "com.qiyi.video:id/empty_text",
+                                                                            "class": "android.widget.TextView",
+                                                                            "text": "登录后，可查看点赞评论、明星私聊等互动消息",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(109, 1466 - 970, 1522)"
+                                                                        },
+                                                                        {
+                                                                            "isImportantForAccessibility": true,
+                                                                            "resourceId": "com.qiyi.video:id/unused_res_a",
+                                                                            "class": "android.widget.Button",
+                                                                            "text": "立即登录",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": true,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": true,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(430, 1582 - 650, 1676)"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

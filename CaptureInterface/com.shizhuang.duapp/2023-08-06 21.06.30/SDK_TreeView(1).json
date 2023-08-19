@@ -1,0 +1,238 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(146, 575 - 933, 1824)",
+    "children": [
+        {
+            "isImportantForAccessibility": false,
+            "class": "android.widget.LinearLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(146, 575 - 933, 1824)",
+            "children": [
+                {
+                    "isImportantForAccessibility": false,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(146, 575 - 933, 1824)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": false,
+                            "resourceId": "com.shizhuang.duapp:id/action_bar_root",
+                            "class": "android.widget.FrameLayout",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": false,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(146, 575 - 933, 1824)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": false,
+                                    "resourceId": "android:id/content",
+                                    "class": "android.widget.FrameLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(146, 575 - 933, 1824)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "class": "android.widget.LinearLayout",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(146, 575 - 933, 1824)",
+                                            "children": [
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "class": "android.widget.LinearLayout",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(168, 597 - 911, 1824)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": true,
+                                                            "resourceId": "com.shizhuang.duapp:id/title_tv",
+                                                            "class": "android.widget.TextView",
+                                                            "text": "温馨提示",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(223, 597 - 856, 740)"
+                                                        },
+                                                        {
+                                                            "isImportantForAccessibility": true,
+                                                            "resourceId": "com.shizhuang.duapp:id/content_scroll",
+                                                            "class": "android.widget.ScrollView",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": true,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": true,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(223, 740 - 856, 1538)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": false,
+                                                                    "class": "android.widget.LinearLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(223, 740 - 856, 4874)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": true,
+                                                                            "resourceId": "com.shizhuang.duapp:id/tv_privacy",
+                                                                            "class": "android.widget.TextView",
+                                                                            "text": "欢迎使用得物！\n请您了解，您需要注册成为得物用户后方可使用本应用的网上购物功能，有关注册，您可以通过《用户协议》详细了解我们为您提供的服务。请您在使用我们的服务前仔细阅读《隐私权政策》全文，并充分理解。根据《常见类型移动互联网应用程序必要个人信息范围规定》，得物App属于网上购物类，主要功能为购买商品，必要个人信息包括：注册用户移动电话号码；收货人姓名（名称）、地址、联系电话；支付时间、支付金额、支付渠道等支付信息。请您知悉，您同意隐私政策仅代表您已了解应用提供的功能，以及功能运行所需的必要个人信息，并不代表您已同意我们可以收集非必要个人信息，非必要个人信息会根据您使用过程中的授权情况单独征求您的同意。 为方便您更直观了解个人信息处理情况，我们也向您提供《隐私政策摘要》。我们会不断完善安全管理与技术保障措施，保护您的个人信息。",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": true,
+                                                                            "isLongClickable": true,
+                                                                            "isFocusable": true,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(223, 740 - 856, 2287)"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "resourceId": "com.shizhuang.duapp:id/button_layout",
+                                                            "class": "android.widget.LinearLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(223, 1593 - 856, 1791)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "resourceId": "com.shizhuang.duapp:id/agree_tv",
+                                                                    "class": "android.widget.TextView",
+                                                                    "text": "同意并继续",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": true,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(223, 1593 - 856, 1703)"
+                                                                },
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "resourceId": "com.shizhuang.duapp:id/disagree_tv",
+                                                                    "class": "android.widget.TextView",
+                                                                    "text": "不同意",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": true,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(481, 1725 - 598, 1791)"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

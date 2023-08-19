@@ -1,0 +1,135 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(77, 1020 - 1003, 1483)",
+    "children": [
+        {
+            "isImportantForAccessibility": false,
+            "class": "android.widget.LinearLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(77, 1020 - 1003, 1483)",
+            "children": [
+                {
+                    "isImportantForAccessibility": false,
+                    "resourceId": "android:id/content",
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(77, 1020 - 1003, 1483)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": false,
+                            "class": "android.view.ViewGroup",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": false,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(77, 1020 - 1003, 1483)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "resourceId": "com.shizhuang.duapp:id/md_contentScrollView",
+                                    "class": "android.widget.ScrollView",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": true,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(77, 1064 - 1003, 1307)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": true,
+                                            "resourceId": "com.shizhuang.duapp:id/md_content",
+                                            "class": "android.widget.TextView",
+                                            "text": "根据法律要求，直播需要上传身份证照片以完成实名认证，并在每次开播前进行人脸识别",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": true,
+                                            "isLongClickable": true,
+                                            "isFocusable": true,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(77, 1086 - 1003, 1285)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "resourceId": "com.shizhuang.duapp:id/md_buttonDefaultNegative",
+                                    "class": "android.widget.TextView",
+                                    "text": "取消",
+                                    "contentDescription": "",
+                                    "canScroll": true,
+                                    "isClickable": true,
+                                    "isLongClickable": false,
+                                    "isFocusable": true,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(550, 1329 - 748, 1461)"
+                                },
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "resourceId": "com.shizhuang.duapp:id/md_buttonDefaultPositive",
+                                    "class": "android.widget.TextView",
+                                    "text": "实名认证",
+                                    "contentDescription": "",
+                                    "canScroll": true,
+                                    "isClickable": true,
+                                    "isLongClickable": false,
+                                    "isFocusable": true,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(748, 1329 - 970, 1461)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
