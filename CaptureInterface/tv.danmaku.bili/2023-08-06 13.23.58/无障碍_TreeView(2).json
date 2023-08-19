@@ -1,0 +1,676 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(0, 120 - 1440, 3200)",
+    "children": [
+        {
+            "isImportantForAccessibility": false,
+            "class": "android.widget.LinearLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(0, 120 - 1440, 3200)",
+            "children": [
+                {
+                    "isImportantForAccessibility": false,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 120 - 1440, 3200)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": false,
+                            "resourceId": "tv.danmaku.bili:id/action_bar_root",
+                            "class": "android.widget.FrameLayout",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": false,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 120 - 1440, 3200)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": false,
+                                    "resourceId": "android:id/content",
+                                    "class": "android.widget.FrameLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(0, 120 - 1440, 3200)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "resourceId": "tv.danmaku.bili:id/center_plus_main_root",
+                                            "class": "android.widget.RelativeLayout",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(0, 120 - 1440, 3200)",
+                                            "children": [
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "resourceId": "tv.danmaku.bili:id/content",
+                                                    "class": "android.widget.FrameLayout",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 120 - 1440, 3200)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "resourceId": "tv.danmaku.bili:id/root_container",
+                                                            "class": "android.widget.RelativeLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 120 - 1440, 3200)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": false,
+                                                                    "resourceId": "tv.danmaku.bili:id/capture_fragment_container",
+                                                                    "class": "android.widget.FrameLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(0, 120 - 1440, 3200)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "class": "android.view.ViewGroup",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(0, 120 - 1440, 2983)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": true,
+                                                                                    "resourceId": "tv.danmaku.bili:id/choose_tab_layout",
+                                                                                    "class": "android.widget.HorizontalScrollView",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": false,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": true,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(0, 120 - 1440, 316)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": false,
+                                                                                            "class": "android.widget.LinearLayout",
+                                                                                            "text": "",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": false,
+                                                                                            "isLongClickable": false,
+                                                                                            "isFocusable": false,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(0, 120 - 1440, 316)",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": true,
+                                                                                                    "class": "android.widget.FrameLayout",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": true,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": true,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(243, 120 - 763, 316)",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": false,
+                                                                                                            "class": "android.widget.RelativeLayout",
+                                                                                                            "text": "",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": false,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": false,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(397, 182 - 658, 253)",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                    "resourceId": "tv.danmaku.bili:id/tab_content",
+                                                                                                                    "class": "android.widget.TextView",
+                                                                                                                    "text": "最近项目",
+                                                                                                                    "contentDescription": "",
+                                                                                                                    "canScroll": false,
+                                                                                                                    "isClickable": false,
+                                                                                                                    "isLongClickable": false,
+                                                                                                                    "isFocusable": false,
+                                                                                                                    "isFocused": false,
+                                                                                                                    "isVisibleToUser": true,
+                                                                                                                    "isSelected": false,
+                                                                                                                    "isEnabled": true,
+                                                                                                                    "boundsInScreen": "(397, 182 - 609, 253)"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                    "class": "android.widget.ImageView",
+                                                                                                                    "text": "",
+                                                                                                                    "contentDescription": "",
+                                                                                                                    "canScroll": false,
+                                                                                                                    "isClickable": false,
+                                                                                                                    "isLongClickable": false,
+                                                                                                                    "isFocusable": false,
+                                                                                                                    "isFocused": false,
+                                                                                                                    "isVisibleToUser": true,
+                                                                                                                    "isSelected": false,
+                                                                                                                    "isEnabled": true,
+                                                                                                                    "boundsInScreen": "(616, 196 - 658, 238)"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": true,
+                                                                                                    "class": "android.widget.FrameLayout",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": true,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": true,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": true,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(763, 120 - 1196, 316)",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": false,
+                                                                                                            "class": "android.widget.RelativeLayout",
+                                                                                                            "text": "",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": false,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": false,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": true,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(900, 182 - 1059, 253)",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                    "resourceId": "tv.danmaku.bili:id/tab_content",
+                                                                                                                    "class": "android.widget.TextView",
+                                                                                                                    "text": "草稿箱",
+                                                                                                                    "contentDescription": "",
+                                                                                                                    "canScroll": false,
+                                                                                                                    "isClickable": false,
+                                                                                                                    "isLongClickable": false,
+                                                                                                                    "isFocusable": false,
+                                                                                                                    "isFocused": false,
+                                                                                                                    "isVisibleToUser": true,
+                                                                                                                    "isSelected": true,
+                                                                                                                    "isEnabled": true,
+                                                                                                                    "boundsInScreen": "(900, 182 - 1059, 253)"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "isImportantForAccessibility": true,
+                                                                                    "resourceId": "tv.danmaku.bili:id/iv_album_close",
+                                                                                    "class": "android.widget.ImageView",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": true,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": true,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(42, 176 - 126, 260)"
+                                                                                },
+                                                                                {
+                                                                                    "isImportantForAccessibility": true,
+                                                                                    "resourceId": "tv.danmaku.bili:id/album_viewpager",
+                                                                                    "class": "androidx.viewpager.widget.ViewPager",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": true,
+                                                                                    "isClickable": false,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": true,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(0, 316 - 1440, 2983)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": false,
+                                                                                            "resourceId": "tv.danmaku.bili:id/frame",
+                                                                                            "class": "android.widget.FrameLayout",
+                                                                                            "text": "",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": false,
+                                                                                            "isLongClickable": false,
+                                                                                            "isFocusable": false,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(0, 316 - 1440, 2983)",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": true,
+                                                                                                    "resourceId": "tv.danmaku.bili:id/recycler",
+                                                                                                    "class": "androidx.recyclerview.widget.RecyclerView",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": false,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": true,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(0, 316 - 1440, 2983)"
+                                                                                                },
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": false,
+                                                                                                    "class": "android.widget.RelativeLayout",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": false,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": false,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(230, 421 - 1210, 1114)",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": false,
+                                                                                                            "resourceId": "tv.danmaku.bili:id/image",
+                                                                                                            "class": "android.widget.ImageView",
+                                                                                                            "text": "",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": false,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": false,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(230, 421 - 1210, 974)"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": true,
+                                                                                                            "resourceId": "tv.danmaku.bili:id/text",
+                                                                                                            "class": "android.widget.TextView",
+                                                                                                            "text": "这里还什么都没有呢",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": false,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": false,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(513, 974 - 927, 1114)"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "resourceId": "tv.danmaku.bili:id/tabBar",
+                                                    "class": "android.widget.RelativeLayout",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 2983 - 1440, 3200)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": true,
+                                                            "resourceId": "tv.danmaku.bili:id/wtlTabs",
+                                                            "class": "android.widget.HorizontalScrollView",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": true,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": true,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 2983 - 1440, 3158)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": false,
+                                                                    "class": "android.widget.LinearLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(0, 2983 - 1440, 3158)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "class": "android.view.ViewGroup",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(175, 2983 - 420, 3158)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": true,
+                                                                                    "resourceId": "tv.danmaku.bili:id/cp_tab_text",
+                                                                                    "class": "android.widget.TextView",
+                                                                                    "text": "开直播",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": true,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": true,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(175, 2983 - 420, 3158)"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "class": "android.view.ViewGroup",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(420, 2983 - 616, 3158)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": true,
+                                                                                    "resourceId": "tv.danmaku.bili:id/cp_tab_text",
+                                                                                    "class": "android.widget.TextView",
+                                                                                    "text": "拍摄",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": true,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": true,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(420, 2983 - 616, 3158)"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "class": "android.view.ViewGroup",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(616, 2983 - 826, 3158)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": true,
+                                                                                    "resourceId": "tv.danmaku.bili:id/cp_tab_text",
+                                                                                    "class": "android.widget.TextView",
+                                                                                    "text": "上传",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": true,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": true,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(616, 2983 - 826, 3158)"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "class": "android.view.ViewGroup",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(826, 2983 - 1022, 3158)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": true,
+                                                                                    "resourceId": "tv.danmaku.bili:id/cp_tab_text",
+                                                                                    "class": "android.widget.TextView",
+                                                                                    "text": "模板",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": true,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": true,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(826, 2983 - 1022, 3158)"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "class": "android.view.ViewGroup",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(1022, 2983 - 1267, 3158)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": true,
+                                                                                    "resourceId": "tv.danmaku.bili:id/cp_tab_text",
+                                                                                    "class": "android.widget.TextView",
+                                                                                    "text": "发动态",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": true,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": true,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(1022, 2983 - 1267, 3158)"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "class": "android.view.View",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(699, 3123 - 741, 3137)"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

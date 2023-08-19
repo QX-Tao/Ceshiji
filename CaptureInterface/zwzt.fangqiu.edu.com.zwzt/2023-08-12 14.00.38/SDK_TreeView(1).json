@@ -1,0 +1,526 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(0, 0 - 1080, 2400)",
+    "children": [
+        {
+            "isImportantForAccessibility": false,
+            "class": "android.widget.LinearLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(0, 0 - 1080, 2400)",
+            "children": [
+                {
+                    "isImportantForAccessibility": false,
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(0, 104 - 1080, 2400)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": false,
+                            "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/action_bar_root",
+                            "class": "android.widget.LinearLayout",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": false,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(0, 104 - 1080, 2400)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": false,
+                                    "resourceId": "android:id/content",
+                                    "class": "android.widget.FrameLayout",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(0, 104 - 1080, 2400)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "class": "android.view.ViewGroup",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(0, 104 - 1080, 2400)",
+                                            "children": [
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/cdActionBar",
+                                                    "class": "android.widget.FrameLayout",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 104 - 1080, 230)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/clActionBar",
+                                                            "class": "android.view.ViewGroup",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 104 - 1080, 230)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/llActionBarLeftViewGroup",
+                                                                    "class": "android.widget.LinearLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": true,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(0, 104 - 115, 230)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "class": "android.widget.ImageView",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(43, 142 - 72, 192)"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/tvActionBarTitle",
+                                                                    "class": "android.widget.TextView",
+                                                                    "text": "活动",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": true,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(205, 133 - 875, 202)"
+                                                                },
+                                                                {
+                                                                    "isImportantForAccessibility": true,
+                                                                    "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/llActionBarRightViewGroup",
+                                                                    "class": "android.widget.LinearLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": true,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": true,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(826, 104 - 1080, 230)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": true,
+                                                                            "class": "android.widget.TextView",
+                                                                            "text": "全部已读",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(869, 138 - 1037, 196)"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "isImportantForAccessibility": false,
+                                                    "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/flContent",
+                                                    "class": "android.widget.FrameLayout",
+                                                    "text": "",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": false,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(0, 230 - 1080, 2400)",
+                                                    "children": [
+                                                        {
+                                                            "isImportantForAccessibility": false,
+                                                            "class": "android.widget.LinearLayout",
+                                                            "text": "",
+                                                            "contentDescription": "",
+                                                            "canScroll": false,
+                                                            "isClickable": false,
+                                                            "isLongClickable": false,
+                                                            "isFocusable": false,
+                                                            "isFocused": false,
+                                                            "isVisibleToUser": true,
+                                                            "isSelected": false,
+                                                            "isEnabled": true,
+                                                            "boundsInScreen": "(0, 230 - 1080, 2400)",
+                                                            "children": [
+                                                                {
+                                                                    "isImportantForAccessibility": false,
+                                                                    "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/fl_contains",
+                                                                    "class": "android.widget.FrameLayout",
+                                                                    "text": "",
+                                                                    "contentDescription": "",
+                                                                    "canScroll": false,
+                                                                    "isClickable": false,
+                                                                    "isLongClickable": false,
+                                                                    "isFocusable": false,
+                                                                    "isFocused": false,
+                                                                    "isVisibleToUser": true,
+                                                                    "isSelected": false,
+                                                                    "isEnabled": true,
+                                                                    "boundsInScreen": "(0, 230 - 1080, 2400)",
+                                                                    "children": [
+                                                                        {
+                                                                            "isImportantForAccessibility": false,
+                                                                            "class": "android.widget.LinearLayout",
+                                                                            "text": "",
+                                                                            "contentDescription": "",
+                                                                            "canScroll": false,
+                                                                            "isClickable": false,
+                                                                            "isLongClickable": false,
+                                                                            "isFocusable": false,
+                                                                            "isFocused": false,
+                                                                            "isVisibleToUser": true,
+                                                                            "isSelected": false,
+                                                                            "isEnabled": true,
+                                                                            "boundsInScreen": "(0, 230 - 1080, 2400)",
+                                                                            "children": [
+                                                                                {
+                                                                                    "isImportantForAccessibility": false,
+                                                                                    "class": "android.widget.FrameLayout",
+                                                                                    "text": "",
+                                                                                    "contentDescription": "",
+                                                                                    "canScroll": false,
+                                                                                    "isClickable": false,
+                                                                                    "isLongClickable": false,
+                                                                                    "isFocusable": false,
+                                                                                    "isFocused": false,
+                                                                                    "isVisibleToUser": true,
+                                                                                    "isSelected": false,
+                                                                                    "isEnabled": true,
+                                                                                    "boundsInScreen": "(0, 230 - 1080, 2400)",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "isImportantForAccessibility": false,
+                                                                                            "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/main_refresh",
+                                                                                            "class": "android.view.ViewGroup",
+                                                                                            "text": "",
+                                                                                            "contentDescription": "",
+                                                                                            "canScroll": false,
+                                                                                            "isClickable": false,
+                                                                                            "isLongClickable": false,
+                                                                                            "isFocusable": false,
+                                                                                            "isFocused": false,
+                                                                                            "isVisibleToUser": true,
+                                                                                            "isSelected": false,
+                                                                                            "isEnabled": true,
+                                                                                            "boundsInScreen": "(0, 230 - 1080, 2400)",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "isImportantForAccessibility": false,
+                                                                                                    "class": "android.widget.FrameLayout",
+                                                                                                    "text": "",
+                                                                                                    "contentDescription": "",
+                                                                                                    "canScroll": false,
+                                                                                                    "isClickable": false,
+                                                                                                    "isLongClickable": false,
+                                                                                                    "isFocusable": false,
+                                                                                                    "isFocused": false,
+                                                                                                    "isVisibleToUser": true,
+                                                                                                    "isSelected": false,
+                                                                                                    "isEnabled": true,
+                                                                                                    "boundsInScreen": "(0, 230 - 1080, 2400)",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "isImportantForAccessibility": false,
+                                                                                                            "class": "android.widget.FrameLayout",
+                                                                                                            "text": "",
+                                                                                                            "contentDescription": "",
+                                                                                                            "canScroll": false,
+                                                                                                            "isClickable": false,
+                                                                                                            "isLongClickable": false,
+                                                                                                            "isFocusable": false,
+                                                                                                            "isFocused": false,
+                                                                                                            "isVisibleToUser": true,
+                                                                                                            "isSelected": false,
+                                                                                                            "isEnabled": true,
+                                                                                                            "boundsInScreen": "(0, 241 - 1080, 2400)",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                    "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/recyclerView",
+                                                                                                                    "class": "androidx.recyclerview.widget.RecyclerView",
+                                                                                                                    "text": "",
+                                                                                                                    "contentDescription": "",
+                                                                                                                    "canScroll": false,
+                                                                                                                    "isClickable": false,
+                                                                                                                    "isLongClickable": false,
+                                                                                                                    "isFocusable": true,
+                                                                                                                    "isFocused": false,
+                                                                                                                    "isVisibleToUser": true,
+                                                                                                                    "isSelected": false,
+                                                                                                                    "isEnabled": true,
+                                                                                                                    "boundsInScreen": "(0, 241 - 1080, 2400)",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "isImportantForAccessibility": true,
+                                                                                                                            "class": "android.widget.LinearLayout",
+                                                                                                                            "text": "",
+                                                                                                                            "contentDescription": "",
+                                                                                                                            "canScroll": false,
+                                                                                                                            "isClickable": true,
+                                                                                                                            "isLongClickable": false,
+                                                                                                                            "isFocusable": true,
+                                                                                                                            "isFocused": false,
+                                                                                                                            "isVisibleToUser": true,
+                                                                                                                            "isSelected": false,
+                                                                                                                            "isEnabled": true,
+                                                                                                                            "boundsInScreen": "(0, 270 - 1080, 656)",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "isImportantForAccessibility": false,
+                                                                                                                                    "class": "android.widget.FrameLayout",
+                                                                                                                                    "text": "",
+                                                                                                                                    "contentDescription": "",
+                                                                                                                                    "canScroll": false,
+                                                                                                                                    "isClickable": false,
+                                                                                                                                    "isLongClickable": false,
+                                                                                                                                    "isFocusable": false,
+                                                                                                                                    "isFocused": false,
+                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                    "isSelected": false,
+                                                                                                                                    "isEnabled": true,
+                                                                                                                                    "boundsInScreen": "(0, 270 - 1080, 656)",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "isImportantForAccessibility": false,
+                                                                                                                                            "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/view_bg",
+                                                                                                                                            "class": "android.view.View",
+                                                                                                                                            "text": "",
+                                                                                                                                            "contentDescription": "",
+                                                                                                                                            "canScroll": false,
+                                                                                                                                            "isClickable": false,
+                                                                                                                                            "isLongClickable": false,
+                                                                                                                                            "isFocusable": false,
+                                                                                                                                            "isFocused": false,
+                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                            "isSelected": false,
+                                                                                                                                            "isEnabled": true,
+                                                                                                                                            "boundsInScreen": "(0, 313 - 1080, 656)"
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "isImportantForAccessibility": false,
+                                                                                                                                            "class": "android.widget.LinearLayout",
+                                                                                                                                            "text": "",
+                                                                                                                                            "contentDescription": "",
+                                                                                                                                            "canScroll": false,
+                                                                                                                                            "isClickable": false,
+                                                                                                                                            "isLongClickable": false,
+                                                                                                                                            "isFocusable": false,
+                                                                                                                                            "isFocused": false,
+                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                            "isSelected": false,
+                                                                                                                                            "isEnabled": true,
+                                                                                                                                            "boundsInScreen": "(346, 313 - 1080, 656)",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                                                    "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/tv_title",
+                                                                                                                                                    "class": "android.widget.TextView",
+                                                                                                                                                    "text": "【限量特惠】一套搞定高考议论文！！",
+                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                    "canScroll": false,
+                                                                                                                                                    "isClickable": false,
+                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                    "isFocused": false,
+                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                    "isSelected": false,
+                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                    "boundsInScreen": "(346, 342 - 1037, 403)"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                                                    "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/tv_dec",
+                                                                                                                                                    "class": "android.widget.TextView",
+                                                                                                                                                    "text": "",
+                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                    "canScroll": false,
+                                                                                                                                                    "isClickable": false,
+                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                    "isFocused": false,
+                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                    "isSelected": false,
+                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                    "boundsInScreen": "(346, 443 - 1037, 549)"
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "isImportantForAccessibility": true,
+                                                                                                                                                    "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/tv_time",
+                                                                                                                                                    "class": "android.widget.TextView",
+                                                                                                                                                    "text": "07-10 00:00",
+                                                                                                                                                    "contentDescription": "",
+                                                                                                                                                    "canScroll": false,
+                                                                                                                                                    "isClickable": false,
+                                                                                                                                                    "isLongClickable": false,
+                                                                                                                                                    "isFocusable": false,
+                                                                                                                                                    "isFocused": false,
+                                                                                                                                                    "isVisibleToUser": true,
+                                                                                                                                                    "isSelected": false,
+                                                                                                                                                    "isEnabled": true,
+                                                                                                                                                    "boundsInScreen": "(346, 569 - 1037, 608)"
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "isImportantForAccessibility": true,
+                                                                                                                                            "resourceId": "zwzt.fangqiu.edu.com.zwzt:id/iv_img",
+                                                                                                                                            "class": "android.widget.ImageView",
+                                                                                                                                            "text": "",
+                                                                                                                                            "contentDescription": "纸条",
+                                                                                                                                            "canScroll": false,
+                                                                                                                                            "isClickable": false,
+                                                                                                                                            "isLongClickable": false,
+                                                                                                                                            "isFocusable": false,
+                                                                                                                                            "isFocused": false,
+                                                                                                                                            "isVisibleToUser": true,
+                                                                                                                                            "isSelected": false,
+                                                                                                                                            "isEnabled": true,
+                                                                                                                                            "boundsInScreen": "(43, 270 - 318, 628)"
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "isImportantForAccessibility": false,
+            "resourceId": "android:id/statusBarBackground",
+            "class": "android.view.View",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(0, 0 - 1080, 104)"
+        }
+    ]
+}
