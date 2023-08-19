@@ -144,7 +144,7 @@ if __name__ == "__main__":
     print(weight_sequence)
     ss = 0
 
-    app_lists = ['cn.kuwo.player']
+    app_lists = ['com.smile.gifmaker']
 
     Aver_acc = 0
 
