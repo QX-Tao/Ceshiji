@@ -1,0 +1,168 @@
+{
+    "isImportantForAccessibility": true,
+    "class": "android.widget.FrameLayout",
+    "text": "",
+    "contentDescription": "",
+    "canScroll": false,
+    "isClickable": false,
+    "isLongClickable": false,
+    "isFocusable": false,
+    "isFocused": false,
+    "isVisibleToUser": true,
+    "isSelected": false,
+    "isEnabled": true,
+    "boundsInScreen": "(195, 783 - 1245, 2416)",
+    "children": [
+        {
+            "isImportantForAccessibility": false,
+            "class": "android.widget.FrameLayout",
+            "text": "",
+            "contentDescription": "",
+            "canScroll": false,
+            "isClickable": false,
+            "isLongClickable": false,
+            "isFocusable": false,
+            "isFocused": false,
+            "isVisibleToUser": true,
+            "isSelected": false,
+            "isEnabled": true,
+            "boundsInScreen": "(195, 783 - 1245, 2416)",
+            "children": [
+                {
+                    "isImportantForAccessibility": false,
+                    "resourceId": "android:id/content",
+                    "class": "android.widget.FrameLayout",
+                    "text": "",
+                    "contentDescription": "",
+                    "canScroll": false,
+                    "isClickable": false,
+                    "isLongClickable": false,
+                    "isFocusable": false,
+                    "isFocused": false,
+                    "isVisibleToUser": true,
+                    "isSelected": false,
+                    "isEnabled": true,
+                    "boundsInScreen": "(195, 783 - 1245, 2416)",
+                    "children": [
+                        {
+                            "isImportantForAccessibility": false,
+                            "class": "android.widget.LinearLayout",
+                            "text": "",
+                            "contentDescription": "",
+                            "canScroll": false,
+                            "isClickable": false,
+                            "isLongClickable": false,
+                            "isFocusable": false,
+                            "isFocused": false,
+                            "isVisibleToUser": true,
+                            "isSelected": false,
+                            "isEnabled": true,
+                            "boundsInScreen": "(195, 783 - 1245, 2416)",
+                            "children": [
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "resourceId": "com.ximalaya.ting.android:id/host_tv_title",
+                                    "class": "android.widget.TextView",
+                                    "text": "服务条款和隐私保护提示",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": false,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(195, 867 - 1245, 942)"
+                                },
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "resourceId": "com.ximalaya.ting.android:id/host_scroll_view",
+                                    "class": "android.widget.ScrollView",
+                                    "text": "",
+                                    "contentDescription": "",
+                                    "canScroll": true,
+                                    "isClickable": false,
+                                    "isLongClickable": false,
+                                    "isFocusable": true,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(195, 995 - 1245, 2045)",
+                                    "children": [
+                                        {
+                                            "isImportantForAccessibility": false,
+                                            "class": "android.view.ViewGroup",
+                                            "text": "",
+                                            "contentDescription": "",
+                                            "canScroll": false,
+                                            "isClickable": false,
+                                            "isLongClickable": false,
+                                            "isFocusable": false,
+                                            "isFocused": false,
+                                            "isVisibleToUser": true,
+                                            "isSelected": false,
+                                            "isEnabled": true,
+                                            "boundsInScreen": "(195, 995 - 1245, 2045)",
+                                            "children": [
+                                                {
+                                                    "isImportantForAccessibility": true,
+                                                    "resourceId": "com.ximalaya.ting.android:id/host_tv_content_1",
+                                                    "class": "android.widget.TextView",
+                                                    "text": "欢迎使用喜马拉雅!\n\n我们依据相关法律制定了《用户服务协议》、《隐私政策》和《儿童隐私政策》，请您在点击同意之前仔细阅读并充分理解相关条款。\n\n我们将严格按照上述协议为您提供服务，保护您的信息安全。\n\n为方便您阅读和理解上述协议，我们将通过下方隐私政策摘要，向您展示我们收集使用您个人信息的类型、目的与范围：\n\n用户基本信息\n\n· 手机号码\n\n使用目的：一键登录、实名认证、客服和购买实物商品发货\n\n· 性别\n\n使用目的：内容推荐、新用户推荐、直播推荐和发现页推荐\n\n· 年龄\n\n使用目的：内容推荐、新用户推荐、直播推荐和发现页推荐\n\n· 所在城市\n\n使用目的：新用户推荐和直播推荐\n\n· 姓名\n\n使用目的：上传或发布信息和视频、购买实物商品发货、实名授权、合同签署（如有）和进度通知\n\n· 身份证号\n\n使用目的：上传或发布信息和视频、实名授权、合同签署（如有）和进度通知\n\n· 联系地址\n\n使用目的：购买实物商品发货、发放活动实物礼品和客服\n\n用户财产信息\n\n· 资金账号\n\n使用目的：收益提现\n\n· 购买消费记录\n\n使用目的：客服售后、用户等级产品和会员权益周报\n\n· 订单数据\n\n使用目的：通过用户购买的商品提供相应的配套服务\n\n· 虚拟资产信息（如喜点、喜钻、贵族喜钻、其他代金券等）\n\n使用目的：购买专辑、会员和打赏主播\n\n用户使用过程信息\n\n· 用户收听时长和收听记录\n\n使用目的：用户收听在线音频、首页推荐和个性化推送\n\n· 搜索记录\n\n使用目的：页面搜索、功能使用、个性化推送和首页推荐\n\n· 分享行为数据\n\n使用目的：页面分享、功能使用\n\n· 用户UGC内容\n\n使用目的：上传或发布信息和视频、用户直播间发言（图、文、音频）和审核过滤\n\n· 站内信、聊天记录\n\n使用目的：用户互动\n\n联系人信息\n\n· 通讯录\n\n使用目的：建立好友联系、发现页推荐\n\n· 关注列表\n\n使用目的：直播推荐、发现页推荐\n\n设备属性信息\n\n· 设备型号、硬件序列号、设备MAC地址、操作系统版本、设备设置、唯一移动设备识别码（IMEI、Android ID、IDFA、SIM卡IMSI信息）、UUID、必要的移动应用列表信息、软硬件及设备、设备环境信息、IP地址、WIFI网络、电信运营商网络\n\n使用目的：履行维护网络安全义务、提高使用服务的安全性\n",
+                                                    "contentDescription": "",
+                                                    "canScroll": false,
+                                                    "isClickable": false,
+                                                    "isLongClickable": false,
+                                                    "isFocusable": true,
+                                                    "isFocused": false,
+                                                    "isVisibleToUser": true,
+                                                    "isSelected": false,
+                                                    "isEnabled": true,
+                                                    "boundsInScreen": "(265, 995 - 1175, 2045)"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "resourceId": "com.ximalaya.ting.android:id/host_btn_agree",
+                                    "class": "android.widget.TextView",
+                                    "text": "同意",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": true,
+                                    "isLongClickable": false,
+                                    "isFocusable": true,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(370, 2101 - 1070, 2241)"
+                                },
+                                {
+                                    "isImportantForAccessibility": true,
+                                    "resourceId": "com.ximalaya.ting.android:id/host_tv_disagree",
+                                    "class": "android.widget.TextView",
+                                    "text": "不同意",
+                                    "contentDescription": "",
+                                    "canScroll": false,
+                                    "isClickable": true,
+                                    "isLongClickable": false,
+                                    "isFocusable": true,
+                                    "isFocused": false,
+                                    "isVisibleToUser": true,
+                                    "isSelected": false,
+                                    "isEnabled": true,
+                                    "boundsInScreen": "(370, 2290 - 1070, 2346)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
